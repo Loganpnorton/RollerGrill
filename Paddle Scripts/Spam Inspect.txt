@@ -1,0 +1,8 @@
+Spam Inspect Instructions
+-------------------------
+
+If Using Paddles:
+Bind your paddle you want to inspect with within Steam Controller Settings for Apex Legends to "N" (default inspect on keyboard)
+
+If Not Using Paddles:
+You NEED paddles for this if you are using other configs, otherwise you can just bind your inspect within Steam Controller Settings for Apex.

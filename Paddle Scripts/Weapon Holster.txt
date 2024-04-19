@@ -1,0 +1,10 @@
+If you want to pick primary weapons/holster your weapon quickly on controller, you NEED to have paddles.
+
+Use Steam controller configuration to bind your paddles to keyboard keys.
+
+Example Bindings:
+Paddle 1 = 1 Number Key
+Paddle 2 = 2 Number Key
+Paddle 3 = 3 Number Key
+
+This will allow you to choose whether you want to pull out your primary or secondary, and also instantly holster weapons.
