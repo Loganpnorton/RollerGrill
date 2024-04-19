@@ -17,7 +17,7 @@ Rollergrill is a versatile toolbox for Apex Legends controller players, enhancin
 
 ## 💻 Requirements
 
-- Python 3.6+
+- Python 3.6+ and associated dependencies ("pip install x-package")
 - Compatible with Windows, macOS, and Linux.
 
 Sure, here's the revised usage section:
