@@ -56,5 +56,3 @@ For any inquiries or feedback, please contact me at your@email.com.
 
 Made with ❤️ by [Your Name](https://github.com/yourusername)
 ```
-
-This version maintains the same structure, content, and styling as the previous one, but it's written entirely in markdown for easy copying.
