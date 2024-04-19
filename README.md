@@ -24,7 +24,7 @@ Rollergrill is a versatile toolbox for Apex Legends controller players, enhancin
 
 ![image](https://github.com/Loganpnorton/RollerGrill/assets/100870414/3be586da-8838-4a1d-9ad8-68676064dfe5)
 
-![Rollergrill GIF](https://media.giphy.com/media/NCGjczWVrnuo6cuccl/giphy.gif)
+Video Reference: https://giphy.com/gifs/NCGjczWVrnuo6cuccl
 
 ## 🛠️ Usage
 
